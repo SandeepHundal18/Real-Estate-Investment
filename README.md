@@ -1,1 +1,1 @@
-# Real-Estate-Investment
+In this project, a Real Estate Investment Trust like to start investing in Residential real estate. We are tasked with determining the market price of a house given a set of features. We will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
